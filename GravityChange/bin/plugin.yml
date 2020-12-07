@@ -1,0 +1,10 @@
+name: GravityChanger
+version: 1.0
+author: Yaros
+main: me.yaros.GravityChange.Main
+commands:
+  gravitystart:
+    description: Flips gravity every command set minutes
+    
+  gravitystop:
+    description: Stops the gravity change and ends the cycle
